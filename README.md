@@ -1,5 +1,5 @@
-# freebitcoin
-PhantomJS freebitcoin Player and Strategy tester.
+#PhantomJS freebitcoin Player and Strategy tester.
+
 
 PhantomJS is a headless web browser scriptable with JavaScript. It runs on Windows, macOS, Linux, and FreeBSD.
 https://phantomjs.org/
