@@ -20,5 +20,5 @@ run : ./phantomjs Tester.js - linux
   You need to do this once, then, after a successful login, create the cookiB.ck file, then enter it. If there is a cooki you can pull them out, save them in a cookiB.ck file and use.
 
 
-                                                                                                          Contact: afterche@bk.ru
+ Contact: afterche@bk.ru
   
