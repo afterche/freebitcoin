@@ -1,3 +1,11 @@
+//pause that in phantomjs with key continue
+//inter text to phantomjs from cli at work 
+https://github.com/ariya/phantomjs/blob/master/examples/stdin-stdout-stderr.js
+console.log ('pause')
+var line = system.stdin.readLine();
+
+
+
 var mynumber="4"
 var voice="voice"+mynumber+".msg"
 var write_stat_to = "stat_frBfp"+mynumber+".txt";
