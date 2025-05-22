@@ -1,3 +1,9 @@
+//pause that in phantomjs with key continue
+//inter text to phantomjs from cli at work 
+https://github.com/ariya/phantomjs/blob/master/examples/stdin-stdout-stderr.js
+console.log ('pause')
+var line = system.stdin.readLine();
+
 var system = require('system');
 var args = system.args;
 var sysuser = system.args[1];
